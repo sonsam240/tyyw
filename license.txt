@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plastic water bottle
+* source:	https://sketchfab.com/3d-models/plastic-water-bottle-1f1cd422af2044aaa97aa158c18c436d
+* author:	SlagPerch 3D (https://sketchfab.com/slagperch3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plastic water bottle" (https://sketchfab.com/3d-models/plastic-water-bottle-1f1cd422af2044aaa97aa158c18c436d) by SlagPerch 3D (https://sketchfab.com/slagperch3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
